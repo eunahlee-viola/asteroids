@@ -1,3 +1,5 @@
+﻿EunAh Lee forked this repository to study how github working!
+
 # HTML5 Asteroids
 
 This game was created Doug McInnes. His code can be found
